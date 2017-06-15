@@ -1,3 +1,3 @@
 # awesome-artificial-general-intelligence
 
-* [The Forget-not-me Process](Forget-not-me-Process.md)
+* [The Forget-me-not Process](Forget-me-not-Process.md)
