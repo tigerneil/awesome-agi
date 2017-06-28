@@ -7,3 +7,5 @@ and MNs. Our analysis revealed previously unknown
 properties of these models. More generally, our work leads
 the way for future exploration of DNNs using the rich body
 of techniques developed in cognitive psychology
+
+link: https://arxiv.org/pdf/1706.08606.pdf
