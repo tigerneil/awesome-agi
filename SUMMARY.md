@@ -10,4 +10,5 @@
 * [Rationality and intelligence](rationality-and-intelligence.md)
 * [Thermodynamics as a theory of decision-making with informationprocessing costs](thermodynamics-as-a-theory-of-decision-making-with-informationprocessing-costs.md)
 * [Concrete Problems in AI Safety](concrete-problems-in-ai-safety.md)
+* [A course in game theory](a-course-in-game-theory.md)
 
