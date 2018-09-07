@@ -54,6 +54,16 @@ when the game is not a zero-sum game, interpreting an agent’s behavior as adve
 \(I\) a uniform strategy \(arms were chosen using 1000 fair coin flips\) and \(II\) a deterministic strategy \(500 times arm 1, then 500 times arm 2\). Bandits get to choose in each turn \(using a probabilistic rule\) which one of the two arms will deliver the reward. The precise probabilistic rule used here will be explained later in Section 5 \(Experiments\).  
 
 
+Two different strategies are: 
+
+1. The agent plays all 1000 rounds using a uniformly random strategy
+2. The agent deterministically pulls each arm exactly 500 times using some fixed rule.
+
+Observations:
+
+1. _**Sensitivity to strategy.**_  The two sets of average rewards for bandit A are statistically indistinguishable, that is, they stay the same regardless of the agent’s strategy. This corresponds to the stochastic bandit type in the literature \[[7](untitled-1.md), [8](regret-analysis-of-stochastic-and-nonstochastic-multi-armed-bandit-problems.md)\]. In contrast, bandits B–D yielded different average rewards for the two strategies. Although each arm was pulled approximately 500 times, it appears as if the reward distributions were a function of the strategy.
+2. _**Adversarial/friendly exploitation of strategy.**_ The average rewards do not always add up to one, as one would expect if the rewards were truly independent of the strategy.
+
 ## $$\gamma$$ 叄
 
 ## $$\delta$$ 肆
