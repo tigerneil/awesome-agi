@@ -63,6 +63,20 @@ Observations:
 
 1. _**Sensitivity to strategy.**_  The two sets of average rewards for bandit A are statistically indistinguishable, that is, they stay the same regardless of the agent’s strategy. This corresponds to the stochastic bandit type in the literature \[[7](untitled-1.md), [8](regret-analysis-of-stochastic-and-nonstochastic-multi-armed-bandit-problems.md)\]. In contrast, bandits B–D yielded different average rewards for the two strategies. Although each arm was pulled approximately 500 times, it appears as if the reward distributions were a function of the strategy.
 2. _**Adversarial/friendly exploitation of strategy.**_ The average rewards do not always add up to one, as one would expect if the rewards were truly independent of the strategy.
+3. _**Strength of exploitation**_ : Notice how the rewards of both adversarial bandits \(C & D\) when using strategy II differ in how strongly they deviate from the baseline set by strategy I. This difference suggests that bandit D is better at reacting to the agent’s strategy than bandit C— and therefore also more adversarial. A bandit that can freely choose any placement of rewards is known as a non-stochastic bandit \[[9](the-nonstochastic-multiarmed-bandit-problem.md), [8](regret-analysis-of-stochastic-and-nonstochastic-multi-armed-bandit-problems.md)\].
+4. _**Cooperating/hedging :**_ the nature of the bandit qualitatively affects the agent's optimal strategy. A friendly \(B\) invites the agent to cooperate through the use of predictable policy whereas adversarial bandits \(C&D\) pressure the agent to hedge through randomization.
+
+![Figure 2: Reacting to the agent&#x2019;s strategy in RPS](.gitbook/assets/image%20%282%29.png)
+
+The diagram depicts the simplex of the environment’s mixed strategies over the three pure strategies Rock, Paper, and Scissors, located at the corners. 
+
+* a. When the agent picks a strategy it fixes its expected payoff \(shown in color, where darker is worse and lighter is better\). 
+* b. An indifferent environment corresponds to a player using a fixed strategy \(mixed or pure\). 
+* c. However, a reactive environment can deviate from the indifferent strategy \(the set of choices is shown as a ball\). A friendly environment would choose in a way that benefits the player \(i.e. try playing Paper as much as possible if the player mostly plays Scissors\); analogously, an adversarial environment would attempt to play the worst strategy for the agent.
+
+_**5. Agent/environment symmetry**_. Let us turn the tables on the agent: how should we play if we were the bandit? A moment of reflection reveals that the analysis is symmetrical. An agent that does not attempt to maximize the payoff, or cannot do so due to limited reasoning power, will pick its strategy in a way that is indifferent to our placement of the reward. In contrast, a more effective agent will react to our choice, seemingly anticipating it. Furthermore, the agent will appear friendly if our goal is to maximize the payoff and adversarial if our goal is to minimize it.
+
+This symmetry implies that the choices of the agent and the environment are coupled to each other, suggesting a solution principle for determining a strategy profile akin to a Nash equilibrium \[[5](a-course-in-game-theory.md)\]. The next section will provide a concrete formalization. 
 
 ## $$\gamma$$ 叄
 
