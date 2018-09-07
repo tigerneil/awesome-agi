@@ -38,6 +38,22 @@ intuitive example using multi-armed bandits
 
 game theory is the classical economic paradigm to analyze the interaction between agents. \[[5](a-course-in-game-theory.md)\]
 
+However, within game theory, the term adversary is justified by the fact that in zero-sum games the equilibrium strategies are maximin strategies, that is, strategies that maximize the expected payoff under the assumption that the adversary will minimize the payoffs. 
+
+**Problems:**
+
+when the game is not a zero-sum game, interpreting an agent’s behavior as adversarial is far less obvious, since:
+
+1.  there are is no coupling between payoffs 
+2. the strong guarantees provided by the minimax theorem are unavailable \[[6](theory-of-games-and-economic-behavior.md)\].
+
+![Figure 1: Average rewards for 4 different 2-armed bandits under 2 different strategies: ](.gitbook/assets/image%20%281%29.png)
+
+**explanations:**
+
+\(I\) a uniform strategy \(arms were chosen using 1000 fair coin flips\) and \(II\) a deterministic strategy \(500 times arm 1, then 500 times arm 2\). Bandits get to choose in each turn \(using a probabilistic rule\) which one of the two arms will deliver the reward. The precise probabilistic rule used here will be explained later in Section 5 \(Experiments\).  
+
+
 ## $$\gamma$$ 叄
 
 ## $$\delta$$ 肆
