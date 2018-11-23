@@ -1,6 +1,6 @@
 # AGI Landscape 
 
-**The AGI Landscape** is going to push the boundary of artificial general intelligence. Thanks Professor David Aldous from UC Berkeley for the books suggestion:  https://www.stat.berkeley.edu/~aldous/205B/index.html
+**The AGI Landscape** is going to push the boundary of artificial general intelligence. 
 
 $$
 \mathbf{uai} = \underset{\theta}{\arg\max}\ \mathcal{AGI}(\theta)
@@ -64,5 +64,5 @@ There are many other books at roughly the same \`\`first year graduate" level. H
 Jim Pitman has his [very useful lecture notes](http://bibserver.berkeley.edu/205/WorkInProgress/DurrettTOC.html) linked to the Durrett text; these notes cover more ground than my course will! Also some [lecture notes by Amir Dembo ](http://www-stat.stanford.edu/~amir/stat-310b/lnotes.pdf)for the Stanford courses equivalent to our 205AB.
 
 ## Reference
-1. The `Books`: https://www.stat.berkeley.edu/~aldous/205B/index.html
+1. The `Books`: https://www.stat.berkeley.edu/~aldous/205B/index.html, by Professor David Aldous from UC Berkeley.
 
