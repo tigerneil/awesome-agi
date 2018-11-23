@@ -1,6 +1,6 @@
-# Universal AI
+# AGI Landscape 
 
-Universal AI is going to push the boundary of artificial general intelligence. Thanks Professor David Aldous from UC Berkeley for the books suggestion:  https://www.stat.berkeley.edu/~aldous/205B/index.html
+**The AGI Landscape** is going to push the boundary of artificial general intelligence. Thanks Professor David Aldous from UC Berkeley for the books suggestion:  https://www.stat.berkeley.edu/~aldous/205B/index.html
 
 $$
 \mathbf{uai} = \underset{\theta}{\arg\max}\ \mathcal{AGI}(\theta)
