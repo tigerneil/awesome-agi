@@ -1,7 +1,3 @@
----
-description: UT
----
-
 # Universal Transformers
 
 ![](.gitbook/assets/image.png)

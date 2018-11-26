@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Universal AI](README.md)
+* [The AGI Landscape](README.md)
 * [Modeling Friends and Foes](modeling-friends-and-foes.md)
 * [Forget-me-not-Process](forget-me-not-process.md)
 * [Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study](cognitive_psychology_dnn.md)

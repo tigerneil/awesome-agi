@@ -1,10 +1,3 @@
----
-description: >-
-  This paper proposesa definition of these environmental “attitudes” based on an
-  characterization ofthe environment’s ability to react to the agent’s private
-  strategy
----
-
 # Modeling Friends and Foes
 
 > **Pedro A. Ortega**

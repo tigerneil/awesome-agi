@@ -1,9 +1,3 @@
----
-description: >-
-  Graph Convolutional Policy Network for Goal-Directed Molecular Graph
-  Generation
----
-
 # Graph Convolutional Policy Network
 
 Generating novel graph structures that optimize given objectives while obeying some given underlying rules is fundamental for chemistry, biology and social science research. 
