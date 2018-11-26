@@ -40,4 +40,5 @@
 * [What game are we playing? end-to-end learning in normal and extensive form games](what-game-are-we-playing-end-to-end-learning-in-normal-and-extensive-form-games.md)
 * [Intriguing properties of neural networks](intriguing-properties-of-neural-networks.md)
 * [Explaining and harnessing adversarial examples](explaining-and-harnessing-adversarial-examples.md)
+* [go-explore](http://eng.uber.com/go-explore/)
 
