@@ -10,19 +10,20 @@ $$
 
 * [Kolmogorov complexity](./)
 
-## Frameworks
+## Frameworks 
 
 [https://github.com/deepmind/pysc2](https://github.com/deepmind/pysc2)
 
 [https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/](https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/)
 
-## Important Papers
+## [Important Papers](papers-1.md)
 
 * [Universal Transformers ](universal-transformers.md)
 * [The Forget-me-not Process](forget-me-not-process.md) 
 * [AGI Safety Literature Review](https://arxiv.org/pdf/1805.01109.pdf) : summary of general safety research in agi
 * [Out-of-sample extension of graph adjacency spectral embedding](https://www.stat.berkeley.edu/~mmahoney/pubs/levin18a.pdf): consider the problem of obtaining an out-of-sample extension for the adjacency spectral embedding, a procedure for embedding the vertices of a graph into Euclidean space.
 * [Alignment for Advanced Machine Learning Systems](https://intelligence.org/files/AlignmentMachineLearning.pdf)
+* [Measuring and avoiding side effects using relative reachability](https://arxiv.org/pdf/1806.01186.pdf): introduces a general definition of side effects, based on relative reachability of states compared to a default state, that avoids these undesirable incentives. 
 
 ## Books
 
@@ -52,4 +53,6 @@ There are many other books at roughly the same \`\`first year graduate" level. H
 ## Reference
 
 1. The `Books`: [https://www.stat.berkeley.edu/~aldous/205B/index.html](https://www.stat.berkeley.edu/~aldous/205B/index.html), by Professor David Aldous from UC Berkeley.
+
+[test](papers/papers.md)
 

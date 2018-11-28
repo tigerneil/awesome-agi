@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The AGI Landscape](README.md)
+* [Papers](papers-1.md)
 * [Rationality and intelligence](rationality-and-intelligence.md)
 * [AI safety gridworlds](ai-safety-gridworlds.md)
 * [Modeling Friends and Foes](modeling-friends-and-foes.md)
@@ -38,7 +39,13 @@
 * [On the likelihood that one unknown probability exceeds another in view of the evidence of two sample](on-the-likelihood-that-one-unknown-probability-exceeds-another-in-view-of-the-evidence-of-two-sample.md)
 * [An empirical evaluation of Thompson Sampling](an-empirical-evaluation-of-thompson-sampling.md)
 * [What game are we playing? end-to-end learning in normal and extensive form games](what-game-are-we-playing-end-to-end-learning-in-normal-and-extensive-form-games.md)
-* [Intriguing properties of neural networks](intriguing-properties-of-neural-networks.md)
+* [Intriguing properties of neural networks](intriguing-properties-of-neural-networks/README.md)
+  * [Untitled](intriguing-properties-of-neural-networks/untitled.md)
 * [Explaining and harnessing adversarial examples](explaining-and-harnessing-adversarial-examples.md)
 * [go-explore](http://eng.uber.com/go-explore/)
+
+## Papers
+
+* [test](papers/test.md)
+* [Measuring and avoiding side effects using relative reachability](papers/papers.md)
 
