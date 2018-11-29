@@ -1,6 +1,6 @@
 # The AGI Landscape
 
-**The AGI Landscape** is going to push the boundary of artificial general intelligence.
+**The AGI Landscape** is going to push the boundary of artificial general intelligence. We host on the website: www.vahero.app. 
 
 $$
 \mathbf{uai} = \underset{\theta}{\arg\max}\ \mathcal{AGI}(\theta)
