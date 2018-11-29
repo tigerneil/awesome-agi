@@ -1,6 +1,11 @@
 # The AGI Landscape
 
-**The AGI Landscape** is going to push the boundary of artificial general intelligence. We host on the website: www.vahero.app. 
+Nov
+
+1. [The Importance of Sampling in Meta-Reinforcement Learning](http://papers.nips.cc/paper/8140-the-importance-of-sampling-inmeta-reinforcement-learning.pdf)
+2. [Inequity aversion improves cooperation in intertemporal social dilemmas](http://papers.nips.cc/paper/7593-inequity-aversion-improves-cooperation-in-intertemporal-social-dilemmas.pdf)
+
+**The AGI Landscape** is going to push the boundary of artificial general intelligence. We host on the website: www.vahero.app.
 
 $$
 \mathbf{uai} = \underset{\theta}{\arg\max}\ \mathcal{AGI}(\theta)
@@ -10,7 +15,7 @@ $$
 
 * [Kolmogorov complexity](./)
 
-## Frameworks 
+## Frameworks
 
 [https://github.com/deepmind/pysc2](https://github.com/deepmind/pysc2)
 
