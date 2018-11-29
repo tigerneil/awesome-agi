@@ -1,10 +1,5 @@
 # The AGI Landscape
 
-Nov
-
-1. [The Importance of Sampling in Meta-Reinforcement Learning](http://papers.nips.cc/paper/8140-the-importance-of-sampling-inmeta-reinforcement-learning.pdf)
-2. [Inequity aversion improves cooperation in intertemporal social dilemmas](http://papers.nips.cc/paper/7593-inequity-aversion-improves-cooperation-in-intertemporal-social-dilemmas.pdf)
-
 **The AGI Landscape** is going to push the boundary of artificial general intelligence. We host on the website: www.vahero.app.
 
 $$
@@ -29,6 +24,11 @@ $$
 * [Out-of-sample extension of graph adjacency spectral embedding](https://www.stat.berkeley.edu/~mmahoney/pubs/levin18a.pdf): consider the problem of obtaining an out-of-sample extension for the adjacency spectral embedding, a procedure for embedding the vertices of a graph into Euclidean space.
 * [Alignment for Advanced Machine Learning Systems](https://intelligence.org/files/AlignmentMachineLearning.pdf)
 * [Measuring and avoiding side effects using relative reachability](https://arxiv.org/pdf/1806.01186.pdf): introduces a general definition of side effects, based on relative reachability of states compared to a default state, that avoids these undesirable incentives. 
+
+Nov
+
+1. [The Importance of Sampling in Meta-Reinforcement Learning](http://papers.nips.cc/paper/8140-the-importance-of-sampling-inmeta-reinforcement-learning.pdf)
+2. [Inequity aversion improves cooperation in intertemporal social dilemmas](http://papers.nips.cc/paper/7593-inequity-aversion-improves-cooperation-in-intertemporal-social-dilemmas.pdf)
 
 ## Books
 
