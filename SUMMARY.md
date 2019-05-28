@@ -43,6 +43,7 @@
   * [Untitled](intriguing-properties-of-neural-networks/untitled.md)
 * [Explaining and harnessing adversarial examples](explaining-and-harnessing-adversarial-examples.md)
 * [go-explore](http://eng.uber.com/go-explore/)
+* [The Landscape of Deep Reinforcement Learning](the-landscape-of-deep-reinforcement-learning.md)
 
 ## Papers
 
