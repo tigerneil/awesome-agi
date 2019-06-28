@@ -1,9 +1,9 @@
 # The AGI Landscape
 
-**The AGI Landscape** is going to push the boundary of artificial general intelligence.
+**The AGI Landscape** $$\Omega$$ is going to push the boundary of artificial general intelligence.
 
 $$
-\mathbf{uai} = \underset{\theta}{\arg\max}\ \mathcal{AGI}(\theta)
+\mathbf{\Omega} = \underset{\theta}{\arg\max}\ \mathcal{AGI}(\theta)
 $$
 
 ## Concepts
@@ -58,6 +58,4 @@ There are many other books at roughly the same \`\`first year graduate" level. H
 ## Reference
 
 1. The `Books`: [https://www.stat.berkeley.edu/~aldous/205B/index.html](https://www.stat.berkeley.edu/~aldous/205B/index.html), by Professor David Aldous from UC Berkeley.
-
-[test](papers/papers.md)
 
