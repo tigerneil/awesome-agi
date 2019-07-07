@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The AGI Landscape](README.md)
+* [简介 Introduction](intro.md)
 * [Papers](papers-1.md)
 * [Rationality and intelligence](rationality-and-intelligence.md)
 * [AI safety gridworlds](ai-safety-gridworlds.md)
@@ -45,7 +46,6 @@
 * [go-explore](http://eng.uber.com/go-explore/)
 * [The Landscape of Deep Reinforcement Learning](the-landscape-of-deep-reinforcement-learning.md)
 * [用因果影响图建模通用人工智能安全框架](yong-yin-guo-ying-xiang-tu-jian-mo-tong-yong-ren-gong-zhi-neng-an-quan-kuang-jia.md)
-* [简介 Introduction](intro.md)
 
 ## Papers
 
