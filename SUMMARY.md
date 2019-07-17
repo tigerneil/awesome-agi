@@ -1,7 +1,7 @@
 # Table of contents
 
 * [The AGI Landscape](README.md)
-* [简介 Introduction](intro.md)
+* [我们的愿景 Our vision](intro.md)
 * [Papers](papers-1.md)
 * [Rationality and intelligence](rationality-and-intelligence.md)
 * [AI safety gridworlds](ai-safety-gridworlds.md)
