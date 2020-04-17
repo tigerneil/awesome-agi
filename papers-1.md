@@ -8,4 +8,5 @@ We list important papers on AGI as follows:
 * [Out-of-sample extension of graph adjacency spectral embedding](https://www.stat.berkeley.edu/~mmahoney/pubs/levin18a.pdf): consider the problem of obtaining an out-of-sample extension for the adjacency spectral embedding, a procedure for embedding the vertices of a graph into Euclidean space.
 * [Alignment for Advanced Machine Learning Systems](https://intelligence.org/files/AlignmentMachineLearning.pdf)
 * [Measuring and avoiding side effects using relative reachability](https://arxiv.org/pdf/1806.01186.pdf): introduces a general definition of side effects, based on relative reachability of states compared to a default state, that avoids these undesirable incentives. 
+* [Asymptotically Unambitious Artificial General Intelligence](https://arxiv.org/pdf/1905.12186.pdf): presents the first algorithm for asymptotically unambitious AGI, where “unambitiousness” includes not seeking arbitrary power; identifies an exception to the Instrumental Convergence Thesis.
 
